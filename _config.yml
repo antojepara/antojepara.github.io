@@ -1,5 +1,5 @@
 title: Rismanto
-baseurl: https://antotenanan.com
+baseurl: /
 permalink: '/:title/'
 collections:
   posts:
