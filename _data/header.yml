@@ -1,14 +1,14 @@
 title_url: 'Rismanto Profile'
 subtitle: |-
-  Hi! Perkenalkan saya Rismanto 
+  Hi! Perkenalkan saya Rismanto
   saya seorang Desainer, Costing Furniture, dan Freelance
 actions:
-  - label: Download
+  - label: Chat Saya
     icon: fa-download
-    url: /elements
+    url: https://api.whatsapp.com/send?phone=6282322336620
     is_primary: true
     is_scrolly: false
-  - label: Learn More
+  - label: Tentang Saya
     icon: fa-chevron-down
     url: '#one'
     is_primary: false
