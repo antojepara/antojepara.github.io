@@ -4,7 +4,7 @@ subtitle: |-
   saya seorang Desainer, Costing Furniture, dan Freelance
 actions:
   - label: Chat Saya
-    icon: fa-download
+    icon: fa-whatsapp
     url: https://api.whatsapp.com/send?phone=6282322336620
     is_primary: true
     is_scrolly: false
