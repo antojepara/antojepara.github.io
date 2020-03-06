@@ -1,15 +1,15 @@
 social_icons:
   - title: Facebook
     icon: fa-facebook
-    url: '#'
+    url: 'https://facebook.com/antotenanan'
   - title: Twitter
     icon: fa-twitter
-    url: '#'
+    url: 'https://twitter.com/antotenanan'
   - title: Instagram
     icon: fa-instagram
-    url: '#'
-copyright: '&copy; Untitled.'
+    url: 'https://instagram.com/antotenanan'
+copyright: '&copy; antotenanan.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: Wisata Jepara
+    url: 'https://www.antotenanan.com'
     new_window: true
