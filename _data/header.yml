@@ -1,14 +1,14 @@
-title_url: '#'
+title_url: 'Rismanto Profile'
 subtitle: |-
   Selamat Datang! Perkenalkan nama saya Rismanto
   Saya seorang Desainer, Costing Furniture, dan Freelance
 actions:
-  - label: Download
+  - label: Chat Saya
     icon: fa-download
     url: /elements
     is_primary: true
     is_scrolly: false
-  - label: Learn More
+  - label: Tentang Saya
     icon: fa-chevron-down
     url: '#one'
     is_primary: false
